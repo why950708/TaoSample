@@ -1,0 +1,3 @@
+[
+	{"id":"_auto_server_sample_","schedule":"40 * * * * *", "script":"sampleCronService.js"}
+]
